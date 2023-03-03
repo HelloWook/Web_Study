@@ -1,4 +1,4 @@
 웹 프로그래밍 연습 
 =============
 ## 2023-03-02
-html/css practice 
+html/css study
