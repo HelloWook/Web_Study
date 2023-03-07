@@ -1,0 +1,18 @@
+* {margin: 0; padding: 0;}
+#wrap {width: 100%; height: 1000px; color:#fff;  text-align: center; text-transform: uppercase; }
+#header-wrap {width: 100%; background-color: #111111; }
+#banner-wrap {width: 100%; background-color: #111111;}
+#content {width: 100%; background-color: #111111;}
+#content2-wrap {width: 100%; background-color: #111111;}
+#footer-wrap {width: 100%; background-color: #111111;}
+
+/* 자식이 height 값을 가지고 있으면 부모의 height 값은 없어도 된다.
+   width: 100%는 기본 값이기 때문에 없어도 된다.       
+*/
+.header-container {width: 1000px; height: 100px; line-height: 100px; margin: 0 auto; background-color: #1d1c1c; text-align: center; font-weight: bold;}
+.banner-container { width: 1000px; height:300px; line-height: 300px; margin: 0 auto; background-color: #4e342e;}
+.content-container { width: 1000px; height: 200px; line-height: 200px; margin: 0 auto; background-color: #1d1c1c; display: flex;}
+.content2-container { width: 1000px; height: 300px; line-height: 300px; margin: 0 auto; background-color: #1d1c1c;}
+.footer-container {width: 1000px; height: 100px; line-height: 100px; margin: 0 auto; background-color: #1d1c1c;}
+.profile{width: 800px; height: 200px;  font-size: 13px; line-height: 160% ; text-align: start; font-weight: normal; font-style: normal;}
+a{ color: #fff; text-decoration: none;}
